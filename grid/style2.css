@@ -1,0 +1,81 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	
+	background-color: white;
+	
+
+}
+.container .first-container{
+	width: 800px;
+    margin: 50px auto 0;
+    margin-bottom: -48px;
+    background-color: #f2f9ff;
+    overflow: hidden;
+}
+.first-container .three-boxes{
+	 width: 31.8%;
+	 padding: 6px;
+	 float: left;
+	 box-sizing: border-box;
+	 margin: 6px;
+	 background-color: #1E88E5;
+	 color: white;
+} 
+.container .second-container{
+	width: 800px;
+    margin: 50px auto 0;
+    margin-bottom: -48px;
+    background-color: #f2f9ff;
+    overflow: hidden;
+}
+.second-container .one-box{
+	width: 97.1%;
+	padding: 6px;
+	margin: 4px;
+	background-color: #1E88E5;
+	color: white;
+} 
+.container .third-container{
+	width: 800px;
+    margin: 50px auto 0;
+    margin-bottom: -48px;
+    background-color: #f2f9ff;
+    overflow: hidden;
+}
+.third-container .two-boxes{
+	 width: 49.2%;
+	 padding: 6px;
+	 margin: 2px;
+	 float: left;
+	 box-sizing: border-box;
+	 background-color: #1E88E5;
+	 color: white;
+} 
+.container .fourth-container{
+	width: 800px;
+    margin: 50px auto 0;
+    margin-bottom: -48px;
+    background-color: #f2f9ff;
+    overflow: hidden;
+}
+.fourth-container .col-8{
+	 width: 67.6%;
+	 padding: 6px;
+	 margin: 5px;
+	 float: left;
+	 box-sizing: border-box;
+	 background-color: #1E88E5;
+	 color: white;
+}
+.fourth-container .col-2{
+	 width: 14.0%;
+	 padding: 6px;
+	 margin: 6px;
+	 float: left;
+	 box-sizing: border-box;
+	 background-color: #1E88E5;
+	 color: white;
+}
